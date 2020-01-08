@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Leetcode Notes
-subtitle:   leetcode 1
+subtitle:   Exercise 1,
 date:       2020-01-08
 author:     Jyokou
 header-img: img/blog-2020-01-06.jpg
@@ -24,7 +24,7 @@ Example:
 
 ## **code**
 - **Source code**
-```
+```C++
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
